@@ -1,10 +1,9 @@
 import {
   createBrowserRouter,
   RouterProvider,
-  Route,
-  Outlet,
 } from "react-router-dom";
 
+import './App.scss';
 import LaunchingSoon from "./pages/LaunchingSoon";
 
 // Customizing the layout of the web page: Navigation bar and Footer stays the same
